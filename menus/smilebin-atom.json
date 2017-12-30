@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle smilebin-atom",
+        "command": "smilebin-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "smilebin-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "smilebin-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
