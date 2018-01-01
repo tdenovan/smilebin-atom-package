@@ -17,6 +17,14 @@
     "atom": ">=1.22.0"
   },
   "dependencies": {
-    "etch": "^0.12.7"
+    "apollo-client-preset": "^1.0.5",
+    "apollo-link-context": "^1.0.3",
+    "etch": "^0.12.7",
+    "graphql": "^0.12.3",
+    "graphql-tag": "^2.6.1",
+    "lodash": "^4.17.4",
+    "react": "^16.2.0",
+    "react-apollo": "^2.0.4",
+    "react-dom": "^16.2.0"
   }
 }
