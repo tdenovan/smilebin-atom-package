@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "smilebin-atom:toggle"
+  "atom-workspace.smilebin-Authenticated": {
+    "cmd-shift-y": "smilebin:smile"
   }
 }
