@@ -1,9 +1,9 @@
-'use babel';
+'use babel'
 
-import SmilebinAtomView from '../lib/smilebin-view';
+import SmilebinAtomView from '../lib/smilebin-view'
 
 describe('SmilebinAtomView', () => {
   it('has one valid test', () => {
-    expect('life').toBe('easy');
-  });
-});
+    expect('life').toBe('easy')
+  })
+})
