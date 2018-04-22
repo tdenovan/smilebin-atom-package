@@ -1,7 +1,7 @@
 {
   "name": "smilebin",
   "main": "index.js",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Annotate your code with emojis. Make things more smiley",
   "keywords": [],
   "repository": "https://github.com/tdenovan/smilebin-atom-package",
