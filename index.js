@@ -4,5 +4,5 @@ module.exports = new Smilebin({
   notificationManager: atom.notifications,
   commandRegistry: atom.commands,
   tooltipManager: atom.tooltips,
-  clipboard: atom.clipboard
+  clipboard: atom.clipboard,
 })
